@@ -17,7 +17,22 @@
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.13.2",
+    "izitoast": "^1.4.0",
+    "node": "^25.4.0",
+    "simplelightbox": "^2.14.3",
     "vite-plugin-full-reload": "^1.2.0",
     "vite-plugin-html-inject": "^1.1.2"
-  }
+  },
+  "description": "Bu proje Vite kullanılarak oluşturulmuştur. Ek özelliklerin tanınması ve özelleştirilmesi için [belgelere bakın](https://vitejs.dev/).",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muzal57/goit-js-hw-12.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/muzal57/goit-js-hw-12/issues"
+  },
+  "homepage": "https://github.com/muzal57/goit-js-hw-12#readme"
 }
